@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 Currently working on L2 solution based on Solana, NDA<br>👯 I’m looking to collaborate on new interesting projects<br>🌱 I’m currently learning course "Linux administration: Advansed level"
+🔭 Currently working on L2 solution based on Solana, NDA<br>👯 Looking to collaborate on new interesting projects<br>🌱 Learning course "Linux administration: Advansed level"
 
 
 ## 🌐 Socials:
